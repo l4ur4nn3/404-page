@@ -6,16 +6,13 @@
     color: white;
 }
 a:hover {
-    color: white;
-}
-a:visited {
-    color: #e1c9f8;
+    font-style: italic;
 }
 a {
     color:#ae8dad;
 }
 #error { 
-    font-size: 200px;
+    font-size: 150px;
     color: white;
 }
 #message {
@@ -23,5 +20,10 @@ a {
     color: white;
 }
 body {
-    width: fit-content;
+    width: 1000px;
+    margin: 0 auto;
+}
+#back {
+    margin-left: -33%;
+    margin-top: 25%;
 }
