@@ -1,0 +1,40 @@
+
+
+* {
+    background-image: url(background.png);
+    font-family: Impact, sans-serif;
+    color: white;
+}
+a:hover {
+    color: white;
+}
+a:visited {
+    color: #e1c9f8;
+}
+a {
+    color:#ae8dad;
+}
+#error { 
+    font-size: 200px;
+    color: white;
+    position: absolute;
+    top: 0%;
+    left: 45%;
+    margin-left: -500px;
+}
+#message {
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    margin-left: -500px;   
+    vertical-align: middle;
+}
+body {
+    width: fit-content;
+}
+#back {
+    margin-top: 900px;
+    font-size: 20px;
+}
